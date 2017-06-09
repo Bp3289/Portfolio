@@ -240,8 +240,14 @@ h6 {
 }
 
 #git {
-    display: block;
+    position: absolute;
     float: left;
+    padding-top: 20px;
+}
+#linkin {
+    position: relative;
+    padding-top: 10px;
+    display: inline-block;
 }
 
 .contactInfo {
