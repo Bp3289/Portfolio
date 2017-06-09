@@ -14,6 +14,13 @@
 .pln {
   color: #eeeeee;
 }
+.lead {
+  font-size: 60px;
+}
+
+.aboutme {
+  font-size: 15px;
+}
 
 @media screen {
   .str {
