@@ -222,6 +222,21 @@ h6 {
     font-size: 14px;
     line-height: 20px;
 }
+
+.portfolioBox {
+    text-align: center;
+}
+
+#molly {
+    display: block;
+    margin: 0 auto;
+    height: 50%;
+    width: 50%;
+}
+
+.contactInfo {
+    text-align: center;
+}
 .section-title,
 h1.post-title {
     margin-bottom: 20px;
