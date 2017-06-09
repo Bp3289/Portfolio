@@ -234,6 +234,16 @@ h6 {
     width: 50%;
 }
 
+.han {
+    display: block;
+    float: left;
+}
+
+#git {
+    display: block;
+    float: left;
+}
+
 .contactInfo {
     text-align: center;
 }
