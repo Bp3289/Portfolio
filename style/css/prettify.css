@@ -22,6 +22,11 @@
   font-size: 15px;
 }
 
+.icon {
+  padding: 10px;
+}
+
+
 @media screen {
   .str {
     color: #b1d631;
